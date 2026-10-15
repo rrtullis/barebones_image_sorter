@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+__pycache__/
+dist/
+tests/
+negative_images/
+positive_images/
+uncertain_images/
+unsorted_images/
+verify_display.py
